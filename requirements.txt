@@ -1,1 +1,13 @@
-# Add your project dependencies here
+# Core Data Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Text Processing
+regex
+
+# Embedding & Vector Store
+sentence-transformers
+faiss-cpu  # or 
+chromadb
